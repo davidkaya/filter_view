@@ -1,5 +1,5 @@
-#ifndef hw05_filter_view_hpp
-#define hw05_filter_view_hpp
+#ifndef filter_view_hpp
+#define filter_view_hpp
 #include <iterator>
 
 using namespace std;
